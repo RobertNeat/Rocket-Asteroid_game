@@ -29,5 +29,6 @@ The project uses components:
 
 <img src="https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/c092f978-1b6c-4f96-bd0d-e4abe2851a8d" width="450"/>
 
-## Co-authors
-[@LukiRage](https://github.com/LukiRage)
+## Co-authors:
+
+ - [@LukiRage](https://github.com/LukiRage)
