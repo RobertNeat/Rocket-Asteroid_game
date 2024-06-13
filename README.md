@@ -6,9 +6,6 @@
 ![button](https://img.shields.io/badge/button-push_button-white)
 
 
-Project in collaboration with: [@LukiRage](https://github.com/LukiRage)
-
-
 # Spaceship - Rocket game
 
 This project is the game program that runs on ESP 32 using C++ language. The main objective is to fly as long as possible in the rocket while avoiding the asteroids. The spaceship can shot asteroids if the two successfull shots are made. The timer in the top corner shows time that rocket is alive, when going into display mod the timer pauses. The display mode is when the potenciometer is set to zero and during that timer is disabled and all collisions (between spaceship, shots and asteroids) in that mode the game is presented as no-play demo.
@@ -31,3 +28,6 @@ The project uses components:
 ## Connection diagram:
 
 <img src="https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/c092f978-1b6c-4f96-bd0d-e4abe2851a8d" width="450"/>
+
+## Co-authors
+[@LukiRage](https://github.com/LukiRage)
